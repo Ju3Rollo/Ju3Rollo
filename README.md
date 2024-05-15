@@ -6,6 +6,6 @@ Meu nome é Julia
 - Estou me desenvolvendo na linguagem do Javascript.
 - Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-- ### você pode entrar em contato comigo 📧
+### você pode entrar em contato comigo 📧
 
-- 0000107502416xsp@al.educacao.sp.gov.br
+0000107502416xsp@al.educacao.sp.gov.br
